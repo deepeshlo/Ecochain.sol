@@ -31,3 +31,5 @@ To create a decentralized ecosystem where anyone can contribute to sustainabilit
 2. `contribute()` – Allows anyone to contribute Ether.  
 3. `allocateFunds(uint256 _id, uint256 _amount)` – Owner allocates funds to initiatives.  
 4. `getBalance()` – Returns the contract’s current balance.  
+contract address :0xE5052370cf25C98b4eA1bb221bD8Af0D845A6226
+![Uploading Screenshot 2025-10-30 133156.png…]()
