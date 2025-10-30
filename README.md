@@ -33,4 +33,5 @@ To create a decentralized ecosystem where anyone can contribute to sustainabilit
 4. `getBalance()` – Returns the contract’s current balance.  
 contract address :0xE5052370cf25C98b4eA1bb221bD8Af0D845A6226
 
-![Uploading Screenshot 2025-10-30 133156.png…]()
+<img width="1600" height="900" alt="Screenshot 2025-10-30 133156" src="https://github.com/user-attachments/assets/ed563400-581a-4ff9-b841-e6a3532f47bd" />
+
